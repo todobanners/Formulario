@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="editnombre">Nombre</string>
+    <string name="edittelefono">Telefono:</string>
+    <string name="editemail">Email:</string>
+    <string name="editdescripcion">Descripcion:</string>
+    <string name="editfecha">Fecha de Nacimiento:</string>
+    <string name="botonsig">Siguiente</string>
+    <string name="botonfecha">Elegir fecha</string>
+    <string name="botoneditar">Editar Datos</string>
+    <string name="tituloactividad2">Confirmar Datos</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfechad">fechad</string>
+    <string name="pfecham">fecham</string>
+    <string name="pfechaa">fechaa</string>
+    <string name="ptelefono">ptelefono</string>
+    <string name="pemail">pemail</string>
+    <string name="pdescripcion">pdescripcion</string>
+    <string name="pfecha">pfecha</string>
+
+    <string-array name="meses">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+</resources>
